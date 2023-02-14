@@ -16,6 +16,7 @@ namespace alfabe_yazdıran_program
                 Console.WriteLine(i);
             }
             Console.ReadKey();
+            //gayet güzel olmuş
         }
     }
 }
